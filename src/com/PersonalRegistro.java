@@ -4,8 +4,6 @@ public record PersonalRegistro (String nombre, String apellidos){
 
   @Override
   public String toString() {
-    // Zetta comenté la línea de código que considero se puede eliminar
-    //System.out.println("Esta instruccion es inservible");
     return "PersonalRegistro{" +
         "nombre='" + nombre + '\'' +
         ", apellidos='" + apellidos + '\'' +
