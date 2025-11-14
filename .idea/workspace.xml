@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26a62765-c344-4742-ad05-0b81cf89f8e5" name="Changes" comment="Se creo el registro persona en main">
-      <change beforePath="$PROJECT_DIR$/src/com/PersonalRegistro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/PersonalRegistro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
